@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shivamalik21/react3/static/css/main.20060737.css",
+    "main.js": "/Shivamalik21/react3/static/js/main.35360ce6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Shivamalik21/react3/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Shivamalik21/react3/index.html",
+    "main.20060737.css.map": "/Shivamalik21/react3/static/css/main.20060737.css.map",
+    "main.35360ce6.js.map": "/Shivamalik21/react3/static/js/main.35360ce6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Shivamalik21/react3/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20060737.css",
+    "static/js/main.35360ce6.js"
+  ]
+}
